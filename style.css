@@ -1,0 +1,43 @@
+header{
+
+}
+body{
+	background-image: url("http://webdesignninjas.homestead.com/offwhite_gradient.gif");
+	background-repeat: no-repeat;
+	background-size: 100%;	
+}
+h1 {
+    color: #425370;
+    font-size: 300%;
+    font-family: Helvetica;
+}
+h2 {
+    color: #1a283f;
+    font-size: 100%;
+    font-family: Helvetica;
+}
+h3 {
+
+	color: #192d4f;
+    font-size: 100%;
+    font-family: Helvetica;
+}
+
+h4 {
+	color: #3e5882;
+    font-size: 100%;
+    font-family: Helvetica;
+}
+.border {
+    width: 100%;
+    border: 10px solid #94aace;
+    padding: 25px;
+    margin: 25px;
+}
+
+.bannerName{
+	padding-top: 10%;
+	padding-bottom: 4%;
+	padding-right: 10%;
+	padding-left: 10%;
+}
